@@ -1,4 +1,4 @@
-# ABSR-adaptive-stochastic-resonance
+# ABSR-adaptive-bistable-stochastic-resonance
 Code for reproducing ABSR-DED of paper "Adaptive Bistable Stochastic Resonance Aided Spectrum Sensing"
 
 This is the part MATLAB2021b code for reproducing paper [1]. The more specific detail is obtained from the corresponding dissertation [2].
